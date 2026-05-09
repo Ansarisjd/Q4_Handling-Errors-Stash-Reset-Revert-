@@ -3,8 +3,14 @@ a = 1
 b = 2
 c = a + b
 print(f"The addition: {c}")
-print("first commit")
-print("Corrected code")
+
+
+
+
+d = a-b
+print(f"The Subtraction: {d}")
+
+print("Incorrect buggy code")
 
 
 
